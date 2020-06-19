@@ -1,4 +1,4 @@
-#!/bin/bash -xe
+#!/bin/bash -x
 
 echo ${JOB_NAME##*/}.${BUILD_NUMBER}
 
